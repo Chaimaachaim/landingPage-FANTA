@@ -1,0 +1,31 @@
+.navbar{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ z-index: 999;
+ width: 100%;
+ background-color: #cc0000;
+ 
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    font-size: 21px;
+    color: rgb(18, 18, 76);
+    flex: 0.6;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.links{
+    align-items: center;
+    gap: 2rem;
+    display: flex;
+    font-size: 30px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
